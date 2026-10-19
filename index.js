@@ -45,11 +45,11 @@ const projectData = {
     title: "Restaurant discovery UI",
 
     description:
-      "A search-led food interface designed to make browsing easier. It brings together restaurant discovery, category filtering, menu presentation, and the core UI patterns needed for a cart flow.",
+      "A search-led item interface designed to make browsing easier. It brings together item discovery, and the core UI patterns needed for a cart flow.",
 
     features: [
       "Search and category browsing",
-      "Menu cards and product information",
+      "Item cards and product information",
       "Cart-oriented interface states",
       "Reusable UI patterns and responsive styling"
     ],
